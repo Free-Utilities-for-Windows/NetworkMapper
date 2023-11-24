@@ -1,6 +1,6 @@
-# Network Scanner
+# Network Mapper
 
-Network Scanner is a console application that scans for devices on your network and saves the results to a text file.
+Network Mapper (scanner) is a console application that scans for devices on your network and saves the results to a text file.
 
 ## Features
 
