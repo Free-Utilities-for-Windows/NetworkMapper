@@ -22,11 +22,6 @@ Network Scanner is a console application that scans for devices on your network 
    - `2. View discovered devices and interfaces`: Prints the discovered devices and their interfaces.
    - `3. Exit`: Saves the scan results to a text file and exits the program.
 
-## Classes
-
-- `Device`: Represents a device on your network.
-- `IpConfiguration`: Represents the IP configuration of a device.
-- `DeviceScanner`: Contains methods for scanning for devices and saving the results.
 
 ## Author
 
